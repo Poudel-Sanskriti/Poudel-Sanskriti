@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sanskriti
 
-<!--
-**Poudel-Sanskriti/Poudel-Sanskriti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior studying Computer Science at Texas State University. Most of my projects are full-stack applications, and I'm currently exploring cloud systems and machine learning.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**BurstLab**](https://github.com/Poudel-Sanskriti/BurstLab) — I built this to compare direct AWS Lambda invocation with SQS-backed processing during traffic bursts.
+- [**Sleep Doctor**](https://github.com/Poudel-Sanskriti/Sleep_Doctor) — A team machine-learning project comparing approaches to predicting sleep quality from lifestyle factors.
+- [**Blue Falcons Fitness**](https://github.com/Poudel-Sanskriti/blue-falcon-fitness) — A team-built fitness web app with accounts, workout and nutrition tracking, and optional local AI reports.
+- [**AirWise**](https://github.com/Poudel-Sanskriti/AirWise) — A hackathon mobile app combining air-quality data with personalized health guidance.
+
+## Technologies
+
+Python · TypeScript · Java · React · FastAPI · AWS
